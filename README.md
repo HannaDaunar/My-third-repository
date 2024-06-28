@@ -1,2 +1,2 @@
-# My-third-repository
+# My third repository
 my third repository
